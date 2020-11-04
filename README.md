@@ -14,4 +14,4 @@ Created by
 
 - Diego Henriquez: Music/FX, Debug and Programming
 
-If i must redo this, surely the code be much more beautiful.
+If i must redo this, surely the code would be much more beautiful.
