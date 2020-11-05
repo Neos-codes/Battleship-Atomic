@@ -7,6 +7,9 @@ Created in 2018 in the course "Programming I".
 If i must redo this, surely the code would be much more beautiful.
 Enjoy :)
 
+Compile with the line:
+<< gcc battleship.c -o battleship.exe -lSDL2 -lSDL_mixer >>
+
 Created by
 
 - Fabián Cid: Code Design, Animations and Programming
