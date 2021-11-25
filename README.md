@@ -10,7 +10,9 @@ If i must redo this, surely the code would be much more beautiful.
 Enjoy :)
 
 Compile with the line:
-<< gcc battleship.c -o battleship.exe -lSDL2 -lSDL_mixer >>
+
+> gcc battleship.c -o battleship.exe -lSDL2 -lSDL_mixer
+
 
 Created by
 
@@ -19,3 +21,8 @@ Created by
 - Rodolfo Fariña: Artist, Music/FX, Design and Programming
 
 - Diego Henriquez: Music/FX, Debug and Programming
+
+# To install SDL2-dev in Linux:
+
+> sudo apt-get install libsdl2-dev
+> libsdl2-mixer-dev
