@@ -26,4 +26,4 @@ Compile with the line:
 
 > sudo apt-get install libsdl2-dev
 
-> libsdl2-mixer-dev
+> sudo apt-get install libsdl2-mixer-dev
