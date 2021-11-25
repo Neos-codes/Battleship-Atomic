@@ -25,4 +25,5 @@ Created by
 # To install SDL2-dev in Linux:
 
 > sudo apt-get install libsdl2-dev
+
 > libsdl2-mixer-dev
